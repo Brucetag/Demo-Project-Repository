@@ -4,7 +4,7 @@
 
 Click the follwoing link to access my project files and repository:
 
-[Download Project Repository File](https://drive.google.com/uc?export=download&id=1GyrO2qeipzmHwX8NExmfnIyBI-3jyhtz)
+[View Project Repository Folder](https://drive.google.com/drive/folders/1GyrO2qeipzmHwX8NExmfnIyBI-3jyhtz?usp=sharing)
 
 # Files Inculded:
 
